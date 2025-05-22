@@ -1,5 +1,6 @@
 ## Offensive Security 
 The core of of offensive security involves breaking into computer systems, exploiting software bugs and finding loopholes in the applications to gain unauthorized access. 
+**Red teams**  and **Penetration testers** specialize in offensive techniques. 
 
 The goal is to understand hacker tatctics and enhance our system defences. 
 
@@ -24,3 +25,17 @@ The goal is to understand hacker tatctics and enhance our system defences.
 
 
 # Defensive Security
+**Blue teams** are part of the defensive security landscape. 
+Defensive security is concerned with two main tasks:
+1. Preventint intrusions from occurring 
+2. Detecting intrusions when they occur and responding properly. 
+
+Some of the tasks that are related to defensive security include:
+
+    User cyber security awareness: Training users about cyber security helps protect against attacks targeting their systems.
+    Documenting and managing assets: We need to know the systems and devices we must manage and protect adequately.
+    Updating and patching systems: Ensuring that computers, servers, and network devices are correctly updated and patched against any known vulnerability (weakness).
+    Setting up preventative security devices: firewall and intrusion prevention systems (IPS) are critical components of preventative security. Firewalls control what network traffic can go inside and what can leave the system or network. IPS blocks any network traffic that matches present rules and attack signatures.
+    Setting up logging and monitoring devices: Proper network logging and monitoring are essential for detecting malicious activities and intrusions. If a new unauthorized device appears on our network, we should be able to detect it.
+
+
