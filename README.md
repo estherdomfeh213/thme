@@ -39,3 +39,17 @@ Some of the tasks that are related to defensive security include:
     Setting up logging and monitoring devices: Proper network logging and monitoring are essential for detecting malicious activities and intrusions. If a new unauthorized device appears on our network, we should be able to detect it.
 
 
+### Areas of Defensive Security
+#### Summmary
+
+Security Operations Center (SOC)
+ A Security Operation Center(SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber secuirity events. 
+  SOC is interested in:
+  1. Vulnerabilites 
+  2. Policy voilations 
+  3. Unauthorized activity 
+  4. Network intrusion. 
+
+
+  **Threat Intelligence**
+  
