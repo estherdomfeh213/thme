@@ -85,4 +85,10 @@ Security Operations Center (SOC)
     Ransomware is a malicious program that encrypts the user’s files. Encryption makes the files unreadable without knowing the encryption password. The attacker offers the user the encryption password if the user is willing to pay a “ransom.”
 
 
-    
+  ## Task 2: Practical example of defensive secuirity 
+
+  SIEM (Security Information and Event Management) tool - gathers security-related information and events from various sources and present them in one dashboard. . If the SIEM finds something suspicious, an alert will be generated.
+
+  - Flag: is a series of characters with format like THM{RANDOM_WORDS}
+
+  At the end of the task, the asnwer was THM{THREAT-BLOCKED}. 
