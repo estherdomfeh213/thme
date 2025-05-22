@@ -52,4 +52,11 @@ Security Operations Center (SOC)
 
 
   **Threat Intelligence**
-  
+  Key terms:
+  - Intelligence: information gathered about actual and potential enemies. 
+  - Threat: any action that can disrupt or adversely affect the system. 
+
+  Threat Intelligence collects information to help the company better prepare against potential adversaries. 
+    Intelligence needs data. Data has to be collected, processed, and analyzed. Data is collected from local sources such as network logs and public sources such as forums. Data processing arranges it into a format suitable for analysis. The analysis phase seeks to find more information about the attackers and their motives; moreover, it aims to create a list of recommendations and actionable steps.
+    
+    Learning about your adversaries lets you know their tactics, techniques, and procedures. As a result of threat intelligence, we identify the threat actor (adversary) and predict their activity. Consequently, we can mitigate their attacks and prepare a response strategy.
