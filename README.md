@@ -120,10 +120,10 @@ Devices have the same two means of identification with one vbeing permeable. :
 
 
   #### IP Addresses 
-  An IP address or Internet Protocol address csn be used as a way of identifying a host on a network for a period of time, where taht IP address can then be associated with another device without the IP address changing. 
+  An IP address or Internet Protocol address can be used as a way of identifying a host on a network for a period of time, where taht IP address can then be associated with another device without the IP address changing. 
 
-  IP adddress is a set of numbers that are divied into f0ur octlets. 
-  Octlets repesents a value between 0 and 255. A unit of digital information. 
+  IP adddress is a set of numbers that are divied into f0ur octets. 
+  Octets repesents a value between 0 and 255. A unit of digital information. 
 
 An IP address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique known as IP addressing & subnetting, but that is for another day. What's important to understand here is that IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
 
@@ -149,3 +149,9 @@ CMNatic-PC	86.157.52.21
   Spoofing occurs when a network device pretends to dentify as another using its MAC address. When this occurs, it can often break poorly implemented security designs that assumes that devices talking on a network are trustworthy. 
 
   ## PRACTICAL  
+Spoofing: 
+Goal- To pretend to identify as another networdked device using device's MAC address. 
+
+Did this by changing my MAC address to a another device's MAC address to get on a hotal Wi-Fi that i was supposed to pay for. 
+
+THM{YOU_GOT_ON_TRYHACKME}
