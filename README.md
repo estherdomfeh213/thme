@@ -155,3 +155,10 @@ Goal- To pretend to identify as another networdked device using device's MAC add
 Did this by changing my MAC address to a another device's MAC address to get on a hotal Wi-Fi that i was supposed to pay for. 
 
 THM{YOU_GOT_ON_TRYHACKME}
+
+### Ping (ICMP)
+Ping is one of the most fundamental network tools available to us.
+Ping uses ICMP (Internet Control Message Protocol) packets to dectermine the performance of a connection between devices, eg. if the connection exits or is reliable. 
+The syntax to do a simple ping is: **ping IP address or website URL**
+
+To find IP Address on Linux or Windows: **ipconfig**
