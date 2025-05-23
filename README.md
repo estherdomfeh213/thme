@@ -92,3 +92,13 @@ Security Operations Center (SOC)
   - Flag: is a series of characters with format like THM{RANDOM_WORDS}
 
   At the end of the task, the asnwer was THM{THREAT-BLOCKED}. 
+
+
+## Networking 
+
+Network- a computer network is a group of interconnected nodes or computing devices that exchange data and reseources with each other. 
+
+Devices that are connected together.
+
+
+
