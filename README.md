@@ -107,3 +107,14 @@ The internet is a global network of linked computers, servers, phones and smart 
   Network can be one of two types:
   1. A privite network
   2. A public network 
+
+### Identifying Devices on a Network
+To communicate and maintain order, devices must be both Identifying and identifiable on a network. 
+Devices on a network are very similar to humans in the fact that we have two ways of being identified:
+  1. Our Name
+  2. Our Fingerprints
+
+Devices have the same two means of identification with one vbeing permeable. :
+  1. An IP Address 
+  2. A Media Access Control (MAC) Address
+  
