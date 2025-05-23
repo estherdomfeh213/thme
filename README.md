@@ -143,3 +143,9 @@ CMNatic-PC	86.157.52.21
   The devices on the internet will have a phisical network interface, which is a microchip board found on the device's motherboard. 
   
   The network interface is assigned a unique address at the factory  it was built at, called  a **MAC(Media Access Control) address. The MAC address is a **twelve-charecter** hexidecimal** number(a base sixteen numbering system used in computing to represent numbers) split into two's and separeated by colon.These colons are considered separators. For example, a4:c3:f0:85:ac:2d. The first six characters represent the company that made the network interface, and the last six is a unique number.
+
+
+  **Mac addresses can be "spoofed".**
+  Spoofing occurs when a network device pretends to dentify as another using its MAC address. When this occurs, it can often break poorly implemented security designs that assumes that devices talking on a network are trustworthy. 
+
+  ## PRACTICAL  
