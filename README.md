@@ -125,4 +125,19 @@ Devices have the same two means of identification with one vbeing permeable. :
   IP adddress is a set of numbers that are divied into f0ur octlets. 
   Octlets repesents a value between 0 and 255. A unit of digital information. 
 
-  
+An IP address is a set of numbers that are divided into four octets. The value of each octet will summarise to be the IP address of the device on the network. This number is calculated through a technique known as IP addressing & subnetting, but that is for another day. What's important to understand here is that IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
+
+IP Addresses follow a set of standards known as protocols. These protocols are the backbone of networking and force many devices to communicate in the same language, which is something that we'll come onto another time. However, we should recall that devices can be on both a private and public network. Depending on where they are will determine what type of IP address they have: a public or private IP address.
+
+A public address is used to identify the device on the Internet, whereas a private address is used to identify a device amongst other devices. Take the table & screenshot below as an example. Here we have two devices on a private network:
+
+Device Name	IP Address	IP Address Type
+DESKTOP-KJE57FD	192.168.1.77	Private
+DESKTOP-KJE57FD	86.157.52.21	Public
+CMNatic-PC	192.168.1.74	Private
+CMNatic-PC	86.157.52.21
+	Public
+
+
+  ### MAC Addresses 
+  The devices on the internet will have a phisical network interface, 
