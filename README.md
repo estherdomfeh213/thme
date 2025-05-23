@@ -117,4 +117,12 @@ Devices on a network are very similar to humans in the fact that we have two way
 Devices have the same two means of identification with one vbeing permeable. :
   1. An IP Address 
   2. A Media Access Control (MAC) Address
+
+
+  #### IP Addresses 
+  An IP address or Internet Protocol address csn be used as a way of identifying a host on a network for a period of time, where taht IP address can then be associated with another device without the IP address changing. 
+
+  IP adddress is a set of numbers that are divied into f0ur octlets. 
+  Octlets repesents a value between 0 and 255. A unit of digital information. 
+
   
